@@ -3,6 +3,6 @@
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, Golang</code>
-<code>📦 Tech stack: node.js</code>
+<code>📦 Tech stack: node.js, Golang</code>
 <code>💬 telegram: [@holdennekt](https://telegram.me/holdennekt)</code>
 <code>📫 [ngryshchak@gmail.com](mailto:ngryshchak@gmail.com)</code>
